@@ -6,8 +6,8 @@
 </a>
 
 <div align="center">
-  <h1>Peable Chat</h1>
-  <h3>Peable Chat client<br />built with Next.js, React Query,<br /> Prisma, PostgreSQL, and Supabase.</h3>
+  <h1>Oxy Chat</h1>
+  <h3>Oxy Chat client<br />built with Next.js, React Query,<br /> Prisma, PostgreSQL, and Supabase.</h3>
   
   <br />
   <figure>
@@ -38,7 +38,7 @@ Chat users can:
 Chat uses [pnpm](https://pnpm.io/) as a package manager, so make sure to [install](https://pnpm.io/installation) it first.
 
 ```bash
-git clone https://github.com/PeableOfficial/Chat.git
+git clone https://github.com/OxyHQ/Chat.git
 cd Chat
 pnpm install
 pnpm run dev
